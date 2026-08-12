@@ -28,5 +28,3 @@ An interactive Power BI dashboard with filters for:
 - Skills
 - Job role
 - Work type
-
-## Project Structure
